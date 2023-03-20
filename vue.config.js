@@ -12,5 +12,5 @@ module.exports = {
     // }
   },
   lintOnSave: false,
-  // publicPath: '/administer',
-};
+  publicPath: '/administer',
+}
